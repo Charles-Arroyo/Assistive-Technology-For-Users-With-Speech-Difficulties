@@ -1,4 +1,7 @@
-/// Lab 09 DS4Talker Skeleton Code       
+/*
+Author: Charles Arroyo
+
+*/
 
 #include <ctype.h>
 #include <stdlib.h>
